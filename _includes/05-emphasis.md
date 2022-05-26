@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am in Italy*
+**Wow, I am in U.S.**
+__YO!!__
+_Am I?_
